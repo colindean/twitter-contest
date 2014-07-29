@@ -1,0 +1,35 @@
+body {
+	font-family: "Droid Sans", Verdana, sans-serif;
+	font-size: 60%;
+}
+
+table {
+	border: 1px solid #333;
+}
+
+thead td {
+	font-weight: bold;
+	border-bottom: 1px solid #333;
+	background-color: #ddd;
+}
+tbody tr {
+	font-size: 9pt;
+}
+tbody td {
+	padding:0.5em 0.2em;
+}
+tbody tr.even {
+	background-color: #fff;
+}
+tbody tr.odd {
+	background-color: #eee;
+}
+span.dup {
+	font-style:italic;
+}
+span.sin {
+	font-weight:bold;
+}
+p.note {
+	color: #999;
+}

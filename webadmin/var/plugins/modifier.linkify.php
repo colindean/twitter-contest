@@ -1,0 +1,1 @@
+../../external/cx.cad.smarty.linkify/modifier.linkify.php
